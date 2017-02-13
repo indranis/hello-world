@@ -1,2 +1,5 @@
 # hello-world
-just another repository
+
+Hi Friends,
+
+Indrani here, I like to cook and splend time with my family.
